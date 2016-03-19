@@ -1,4 +1,5 @@
 #!/usr/bin/env py0thon
+#BS4 and web scraping
 
 import requests,MySQLdb
 
